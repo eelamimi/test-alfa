@@ -7,4 +7,5 @@ import io.swagger.v3.oas.annotations.info.Info;
         title = "Alfa API",
         version = "0.0.1",
         description = "Документация для CRUD операций с клиентами и их контактами"))
-public class SwaggerConfig {}
+public class SwaggerConfig {
+}

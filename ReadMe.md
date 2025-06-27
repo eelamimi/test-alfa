@@ -60,7 +60,7 @@ http://localhost:8080/swagger-ui/index.html
 
 - `GET /api/clients` - получить список клиентов
 
-- `POST /api/clients` - создать нового пользователя
+- `POST /api/clients` - создать нового клиента
 
 - Другие endpoints смотрите в Swagger UI
 
