@@ -41,6 +41,13 @@ DB_USERNAME=postgres
 DB_PASSWORD=postgres
 ```
 
+### Сборка приложения
+Перед первым запуском выполните сборку:
+
+```bash
+mvn clean install
+```
+
 ### Запуск приложения
 
 ```bash
